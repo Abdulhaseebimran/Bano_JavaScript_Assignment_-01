@@ -21,9 +21,9 @@ console.log("The type of age As String is : ", typeof ageAsString);
 let number = prompt("Enter Number : ");
 
 if (number % 2 == 0) {
-  alert(number + "This is even Number");
+    alert(number + "This is even Number");
 } else {
-  alert(number + "This is odd Number");
+    alert(number + "This is odd Number");
 }
 
 // Declare a variable called “temperature” and assign it a value of 72. Convert the temperature to Celsius and store the result in a new variable called “celsius”. Display the value of celsius to the console.
